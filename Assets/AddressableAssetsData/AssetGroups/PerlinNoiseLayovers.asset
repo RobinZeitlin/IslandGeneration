@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PerlinNoiseLayovers
+  m_EditorClassIdentifier: 
+  m_GroupName: PerlinNoiseLayovers
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 58451caf31216fc448663c0e25426361
+  m_SerializeEntries:
+  - m_GUID: f2502bfaac424b44ca142a2530582b56
+    m_Address: Assets/PerlinNoises/prc5ervwmh891.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PerlinNoise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e21d8753c8841944ebc2a14432780350
+    m_Address: Assets/PerlinNoises/Sprite.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PerlinNoise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38eddbbea37b87945ab5f710df456819
+    m_Address: Assets/PerlinNoises/SmallIsland.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PerlinNoise
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a907158677b46646a06221c8444b652, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: da4b551d77dfa4c4f806944fe143cb76, type: 2}
+    - {fileID: 11400000, guid: 52f75ab312a4d104fbceccd13f3c8842, type: 2}

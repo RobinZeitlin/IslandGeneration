@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89d9bcd67fb59a7449c172298ae2e643, type: 3}
+  m_Name: ForrestBiome
+  m_EditorClassIdentifier: 
+  colorGradient:
+    serializedVersion: 2
+    key0: {r: 0.8207547, g: 0.78544056, b: 0.2981043, a: 1}
+    key1: {r: 0.9150943, g: 0.8762265, b: 0.3237362, a: 1}
+    key2: {r: 0.15425415, g: 0.5943396, b: 0.103729084, a: 0}
+    key3: {r: 0.24185461, g: 0.6226415, b: 0.12041651, a: 0}
+    key4: {r: 0.5188679, g: 0.5188679, b: 0.5188679, a: 0}
+    key5: {r: 1, g: 1, b: 1, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 6168
+    ctime1: 7517
+    ctime2: 27949
+    ctime3: 40285
+    ctime4: 56090
+    ctime5: 65535
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 1
+    m_ColorSpace: -1
+    m_NumColorKeys: 6
+    m_NumAlphaKeys: 2
+  islanDataInformation:
+  - objectsToSpawn:
+    - {fileID: 2475644764595497613, guid: fbd714e51a8c518478ed71b1314d9183, type: 3}
+    - {fileID: 2475644764595497613, guid: 9b5b198060b6cac4cb28f6519ad2f85f, type: 3}
+    aboveFloat: 0.254
+    belowFloat: 0.649
+    spawnfrequency: 0.356
+    spawnChance: 17.6
+  - objectsToSpawn:
+    - {fileID: 9010101107414750628, guid: 274f29d2642fc8d4aa5e920db4a63316, type: 3}
+    - {fileID: 9010101107414750628, guid: 4e84e612507fc804191449cdd3509e4a, type: 3}
+    aboveFloat: 0.741
+    belowFloat: 1
+    spawnfrequency: 0.356
+    spawnChance: 33.7
+  amplitude: 12.2
+  scale: 16.4

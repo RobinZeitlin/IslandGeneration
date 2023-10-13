@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89d9bcd67fb59a7449c172298ae2e643, type: 3}
+  m_Name: LavaBiome
+  m_EditorClassIdentifier: 
+  colorGradient:
+    serializedVersion: 2
+    key0: {r: 0, g: 0, b: 0, a: 1}
+    key1: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 1}
+    key2: {r: 0.5176471, g: 0.5176471, b: 0.5176471, a: 0}
+    key3: {r: 0.9811321, g: 0.24590133, b: 0, a: 0}
+    key4: {r: 1, g: 0, b: 0.0947485, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 3277
+    ctime1: 16962
+    ctime2: 27563
+    ctime3: 40092
+    ctime4: 65535
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 1
+    m_ColorSpace: -1
+    m_NumColorKeys: 5
+    m_NumAlphaKeys: 2
+  islanDataInformation:
+  - objectsToSpawn:
+    - {fileID: 9010101107414750628, guid: 274f29d2642fc8d4aa5e920db4a63316, type: 3}
+    - {fileID: 9010101107414750628, guid: 4e84e612507fc804191449cdd3509e4a, type: 3}
+    aboveFloat: 0.083
+    belowFloat: 0.385
+    spawnfrequency: 0.654
+    spawnChance: 34.1
+  - objectsToSpawn:
+    - {fileID: 2475644764595497613, guid: 5dd8f20b8fc609648b92470eb02d1bbe, type: 3}
+    aboveFloat: 0.19
+    belowFloat: 0.312
+    spawnfrequency: 0.356
+    spawnChance: 2.9
+  amplitude: 25.1
+  scale: 17.88
